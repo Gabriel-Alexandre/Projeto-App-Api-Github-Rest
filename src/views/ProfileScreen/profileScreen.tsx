@@ -111,10 +111,3 @@ const styles = StyleSheet.create({
 })
 
 export default ProfileScreen;
-
-// Pontos para melhorar:
-
-/**
- * -> Erro de renderização no carregamento das fontes (Diz que o ocorre uma quebra na rederização dos componentes).
- *  - Tentar fazer carregamento das fontes na renderição de App.tsx
- */

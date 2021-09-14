@@ -34,4 +34,3 @@ export default NavigationModule;
 
 // Arquivo para definir base da minha navegação
 // Arquivo para encapsular as informações de navegação
-// No mais, é adaptar o código a esse estilo de organização

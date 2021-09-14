@@ -69,15 +69,3 @@ const styles = StyleSheet.create({
 });
 
 export default SearchScreen;
-
-
-// Informações importantes:
-
-/**
- * 1- É importante seguir esse modelo de requisição e navegação para que o projeto possa ser construido de uma maneira mais
- * profissional.
- *  - Não preciso necessáriamente utiliza-los, mas é recomendável.
- *  
- * >> Ficar tranquilo, pois só vou ter mais segurança conforme eu for utilizando as propriedades, assim como os modelos de organização.
- *  - O mais importante é aprender e praticar, a sintaxe e organização vai variar de acordo com o ambiente, então ficar tranquilo.
- */

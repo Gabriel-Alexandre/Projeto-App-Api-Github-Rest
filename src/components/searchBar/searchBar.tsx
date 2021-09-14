@@ -8,8 +8,6 @@ interface SearchBarProps {
     getAPIGithub: Function,
     loading: boolean
  }
- // Tipo classes, que contém o parâmetros que o meu componente precisa para funcionar.
- // No caso, a sintaxe é só criar um componente funcional explicitando esse tipo.
 
 const SearchBar: React.FC<SearchBarProps> = ({
     userName, setUserName, getAPIGithub, loading
